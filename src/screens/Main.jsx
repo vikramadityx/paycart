@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react'
-import { Configuration, OpenAIApi } from "openai";
+// import { Configuration, OpenAIApi } from "openai";
 
-const configuration = new Configuration({
-  apiKey: "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",
-});
+// const configuration = new Configuration({
+//   apiKey: "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",
+// });
 
-const openai = new OpenAIApi(configuration);
+// const openai = new OpenAIApi(configuration);
 
 function Main() {
 
